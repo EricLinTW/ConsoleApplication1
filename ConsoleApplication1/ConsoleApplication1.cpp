@@ -5,15 +5,12 @@
 #include "iostream"
 #include "stdlib.h"
 
-using namespace std;
 
-int main(void)
+int main()
 {
-    int r = 3;
-    const float pi = 3.1416;
-    float area = pi*r*r;
-    cout << "radius is" << r << "The area of the circle is" << area << "\n";
-    system("pause");
+ printf("歡迎使用 C/C++ !\n");
+ printf("這是一ˊ個間般的C/C++程式.\n");
+     system("pause");
     return 0;
 }
 
