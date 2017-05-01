@@ -7,8 +7,9 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
+#include "stdio.h"
+#include "tchar.h"
+#include "stdlib.h"
 
 
 
